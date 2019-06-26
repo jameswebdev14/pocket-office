@@ -1,2 +1,2 @@
 # pocket-office
-Vue p[ocket office app
+Vue mobile optimised pocket-office app with firebase
